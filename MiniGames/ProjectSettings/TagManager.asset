@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Water
+  - Coin
+  - Coin1
+  - Coin2
+  - Coin3
+  - Coin4
+  - Coin5
+  - EndCoin
+  - Coin6
+  - Coin7
+  - Text
   layers:
   - Default
   - TransparentFX
@@ -43,6 +54,15 @@ TagManager:
     locked: 0
   - name: Background2
     uniqueID: 2628947217
+    locked: 0
+  - name: Coin
+    uniqueID: 1400377525
+    locked: 0
+  - name: Water
+    uniqueID: 3827929075
+    locked: 0
+  - name: Text
+    uniqueID: 2340180265
     locked: 0
   - name: Default
     uniqueID: 0
