@@ -15,6 +15,11 @@ TagManager:
   - Coin6
   - Coin7
   - Text
+  - Map
+  - Button
+  - Pause Menu
+  - CityBackground
+  - SeasonBackground
   layers:
   - Default
   - TransparentFX
@@ -24,15 +29,15 @@ TagManager:
   - UI
   - 
   - 
-  - Map
+  - CityBackground
+  - SeasonBackground
+  - Coin
+  - Water
   - Player
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Pause Menu
+  - Button
+  - Text
+  - Map
   - 
   - 
   - 
@@ -49,11 +54,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
+  - name: CityBackground
     uniqueID: 2016186379
     locked: 0
-  - name: Background2
+  - name: SeasonBackground
     uniqueID: 2628947217
+    locked: 0
+  - name: Map
+    uniqueID: 649951013
     locked: 0
   - name: Coin
     uniqueID: 1400377525
@@ -61,8 +69,17 @@ TagManager:
   - name: Water
     uniqueID: 3827929075
     locked: 0
+  - name: Player
+    uniqueID: 1953701113
+    locked: 0
+  - name: Pause Menu
+    uniqueID: 1599755719
+    locked: 0
   - name: Text
     uniqueID: 2340180265
+    locked: 0
+  - name: Button
+    uniqueID: 343860423
     locked: 0
   - name: Default
     uniqueID: 0

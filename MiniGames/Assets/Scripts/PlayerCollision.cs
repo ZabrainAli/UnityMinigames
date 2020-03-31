@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerCollision : MonoBehaviour
 {
@@ -61,5 +62,10 @@ public class PlayerCollision : MonoBehaviour
     	{
     		EndCoin.SetActive(false);
     	}
+
+        if (collisionInfo.gameObject.tag == "Water")
+        {
+            SceneManager.LoadScene("GameOverScreen");
+        }
     }
 }

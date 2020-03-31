@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Minigame1.unity
+    guid: 7b4700c766a1540fbaf15613a1bb2d32
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 17acb3d83fb224978a218310cac1bf1c
+  - enabled: 1
+    path: Assets/Scenes/GameOverScreen.unity
+    guid: d341f0c7883ab496bbfd6f1bdabf28de
+  - enabled: 1
+    path: Assets/Scenes/ControlsMG1.unity
+    guid: 5543f4347476349468c3ef043810fca4
+  - enabled: 1
+    path: Assets/Scenes/RulesMG1.unity
+    guid: 5ee2f0700b4f94b11988bb101f2b4e7b
   m_configObjects: {}
