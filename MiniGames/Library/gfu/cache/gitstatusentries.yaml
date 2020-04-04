@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-31T15:00:40.667-04:00
-  initializedAtString: 2020-03-30T19:11:55.487-04:00
+  lastUpdatedAtString: 2020-04-04T17:26:50.463-04:00
+  initializedAtString: 2020-04-04T17:07:09.396-04:00
   entries:
   - path: MiniGames/Assembly-CSharp.csproj
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assembly-CSharp.csproj
@@ -22,204 +22,123 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Assets/Animations/Coin Animator.controller
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Animations/Coin
-      Animator.controller
-    projectPath: Assets/Animations/Coin Animator.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: MiniGames/Assets/Animations/NewCoin Animator.controller
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Animations/NewCoin
-      Animator.controller
-    projectPath: Assets/Animations/NewCoin Animator.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Animations/NewCoin Animator.controller.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Animations/NewCoin
-      Animator.controller.meta
-    projectPath: Assets/Animations/NewCoin Animator.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Animations/NewCoinAnimation.anim
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Animations/NewCoinAnimation.anim
-    projectPath: Assets/Animations/NewCoinAnimation.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Animations/NewCoinAnimation.anim.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Animations/NewCoinAnimation.anim.meta
-    projectPath: Assets/Animations/NewCoinAnimation.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image
-      3.png
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/BayatGames/Free
-      Platform Game Assets/Coin Animation/png/2x/image 3.png
-    projectPath: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image
-      3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: MiniGames/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image
-      3.png.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/BayatGames/Free
-      Platform Game Assets/Coin Animation/png/2x/image 3.png.meta
-    projectPath: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image
-      3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: MiniGames/Assets/Coin.prefab
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Coin.prefab
-    projectPath: Assets/Coin.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: MiniGames/Assets/Friction Normal.physicsMaterial2D
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Friction Normal.physicsMaterial2D
-    projectPath: Assets/Friction Normal.physicsMaterial2D
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Friction Normal.physicsMaterial2D.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Friction Normal.physicsMaterial2D.meta
-    projectPath: Assets/Friction Normal.physicsMaterial2D.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Friction Slope.physicsMaterial2D
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Friction Slope.physicsMaterial2D
-    projectPath: Assets/Friction Slope.physicsMaterial2D
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Assets/Friction Slope.physicsMaterial2D.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Friction Slope.physicsMaterial2D.meta
-    projectPath: Assets/Friction Slope.physicsMaterial2D.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: MiniGames/Assets/Scenes/ControlsMG1.unity
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/ControlsMG1.unity
     projectPath: Assets/Scenes/ControlsMG1.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/ControlsMG1.unity.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/ControlsMG1.unity.meta
     projectPath: Assets/Scenes/ControlsMG1.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/GameOverScreen.unity
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/GameOverScreen.unity
     projectPath: Assets/Scenes/GameOverScreen.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: MiniGames/Assets/Scenes/GameOverScreen.unity.meta
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/GameOverScreen.unity.meta
+    projectPath: Assets/Scenes/GameOverScreen.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/Minigame1.unity
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/Minigame1.unity
     projectPath: Assets/Scenes/Minigame1.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Assets/Scenes/PauseScreen.unity
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/PauseScreen.unity
-    projectPath: Assets/Scenes/PauseScreen.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: MiniGames/Assets/Scenes/PauseScreen.unity.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/PauseScreen.unity.meta
-    projectPath: Assets/Scenes/PauseScreen.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/RulesMG1.unity
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/RulesMG1.unity
     projectPath: Assets/Scenes/RulesMG1.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/RulesMG1.unity.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/RulesMG1.unity.meta
     projectPath: Assets/Scenes/RulesMG1.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scenes/WinScreen.unity
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/WinScreen.unity
     projectPath: Assets/Scenes/WinScreen.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: MiniGames/Assets/Scenes/WinScreen.unity.meta
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scenes/WinScreen.unity.meta
+    projectPath: Assets/Scenes/WinScreen.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/ControlsController.cs
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/ControlsController.cs
     projectPath: Assets/Scripts/ControlsController.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/ControlsController.cs.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/ControlsController.cs.meta
     projectPath: Assets/Scripts/ControlsController.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/GameController.cs
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/GameController.cs
     projectPath: Assets/Scripts/GameController.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: MiniGames/Assets/Scripts/GameController.cs.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/GameController.cs.meta
     projectPath: Assets/Scripts/GameController.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: MiniGames/Assets/Scripts/GameOverController.cs
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/GameOverController.cs
     projectPath: Assets/Scripts/GameOverController.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/GameOverController.cs.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/GameOverController.cs.meta
     projectPath: Assets/Scripts/GameOverController.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/PauseController.cs
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/PauseController.cs
     projectPath: Assets/Scripts/PauseController.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/PauseController.cs.meta
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/PauseController.cs.meta
     projectPath: Assets/Scripts/PauseController.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Assets/Scripts/PlayerCollision.cs
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/PlayerCollision.cs
     projectPath: Assets/Scripts/PlayerCollision.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Assets/Slippery.physicsMaterial2D
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Slippery.physicsMaterial2D
-    projectPath: Assets/Slippery.physicsMaterial2D
+  - path: MiniGames/Assets/Scripts/Score.cs
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/Score.cs
+    projectPath: Assets/Scripts/Score.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Assets/Slippery.physicsMaterial2D.meta
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Slippery.physicsMaterial2D.meta
-    projectPath: Assets/Slippery.physicsMaterial2D.meta
+  - path: MiniGames/Assets/Scripts/Score.cs.meta
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Assets/Scripts/Score.cs.meta
+    projectPath: Assets/Scripts/Score.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -229,6 +148,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: MiniGames/Library/CrashedAssetImports.txt
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: MiniGames/Library/CurrentLayout.dwlt
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/CurrentLayout.dwlt
     projectPath: Library/CurrentLayout.dwlt
@@ -241,9 +166,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Library/EditorUserBuildSettings.asset
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/EditorUserBuildSettings.asset
-    projectPath: Library/EditorUserBuildSettings.asset
+  - path: MiniGames/Library/expandedItems
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/expandedItems
+    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -283,15 +208,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf
-    projectPath: Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf
+  - path: MiniGames/Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e
+    projectPath: Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MiniGames/Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e.info
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e.info
+    projectPath: Library/metadata/15/1570adfdb7c6247448f5c9e0021f141e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MiniGames/Library/metadata/17/17acb3d83fb224978a218310cac1bf1c
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/17/17acb3d83fb224978a218310cac1bf1c
+    projectPath: Library/metadata/17/17acb3d83fb224978a218310cac1bf1c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: MiniGames/Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf.info
-    projectPath: Library/metadata/01/01f2715068a32f44a99ba474fbf74cdf.info
+  - path: MiniGames/Library/metadata/17/17acb3d83fb224978a218310cac1bf1c.info
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/17/17acb3d83fb224978a218310cac1bf1c.info
+    projectPath: Library/metadata/17/17acb3d83fb224978a218310cac1bf1c.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -299,30 +236,11 @@ MonoBehaviour:
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/17/17bdea9baf79641e18cfca30ac9809bf
     projectPath: Library/metadata/17/17bdea9baf79641e18cfca30ac9809bf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/17/17bdea9baf79641e18cfca30ac9809bf.info
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/17/17bdea9baf79641e18cfca30ac9809bf.info
     projectPath: Library/metadata/17/17bdea9baf79641e18cfca30ac9809bf.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d
-    projectPath: Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: MiniGames/Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d.info
-    projectPath: Library/metadata/21/2150c5fa1d3094ef3979c9ac0188c95d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: MiniGames/Library/metadata/25/253cde891c7b2461cbdf4cbe832c299b 2
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/25/253cde891c7b2461cbdf4cbe832c299b
-      2
-    projectPath: Library/metadata/25/253cde891c7b2461cbdf4cbe832c299b 2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -330,110 +248,50 @@ MonoBehaviour:
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/2a/2a8781f68363943cd813cf83babfa62a
     projectPath: Library/metadata/2a/2a8781f68363943cd813cf83babfa62a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/2a/2a8781f68363943cd813cf83babfa62a.info
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/2a/2a8781f68363943cd813cf83babfa62a.info
     projectPath: Library/metadata/2a/2a8781f68363943cd813cf83babfa62a.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678
-    projectPath: Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678.info
-    projectPath: Library/metadata/33/3309bbda6fb1848c48352f5f7d0d2678.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab
-    projectPath: Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: MiniGames/Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab.info
-    projectPath: Library/metadata/44/44c7bd262cac04e46a2655b5e2f2e8ab.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/55/5543f4347476349468c3ef043810fca4
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/55/5543f4347476349468c3ef043810fca4
     projectPath: Library/metadata/55/5543f4347476349468c3ef043810fca4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/55/5543f4347476349468c3ef043810fca4.info
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/55/5543f4347476349468c3ef043810fca4.info
     projectPath: Library/metadata/55/5543f4347476349468c3ef043810fca4.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b
     projectPath: Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b.info
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b.info
     projectPath: Library/metadata/5e/5ee2f0700b4f94b11988bb101f2b4e7b.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56
-    projectPath: Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56.info
-    projectPath: Library/metadata/62/62474f9d6bd8a4c4c81ec44a343d1e56.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/67/67a093ab103954d638bdd6de4651ee5c
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/67/67a093ab103954d638bdd6de4651ee5c
-    projectPath: Library/metadata/67/67a093ab103954d638bdd6de4651ee5c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/67/67a093ab103954d638bdd6de4651ee5c.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/67/67a093ab103954d638bdd6de4651ee5c.info
-    projectPath: Library/metadata/67/67a093ab103954d638bdd6de4651ee5c.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/73/7369275fa9c76475e8621f8ec658af68
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/73/7369275fa9c76475e8621f8ec658af68
-    projectPath: Library/metadata/73/7369275fa9c76475e8621f8ec658af68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/73/7369275fa9c76475e8621f8ec658af68.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/73/7369275fa9c76475e8621f8ec658af68.info
-    projectPath: Library/metadata/73/7369275fa9c76475e8621f8ec658af68.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/89/8964c58327b6e4347ae102f71121e2a3
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/89/8964c58327b6e4347ae102f71121e2a3
-    projectPath: Library/metadata/89/8964c58327b6e4347ae102f71121e2a3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: MiniGames/Library/metadata/89/8964c58327b6e4347ae102f71121e2a3.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/89/8964c58327b6e4347ae102f71121e2a3.info
-    projectPath: Library/metadata/89/8964c58327b6e4347ae102f71121e2a3.info
+  - path: MiniGames/Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9
+    projectPath: Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MiniGames/Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9.info
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9.info
+    projectPath: Library/metadata/a0/a036c2c9522d84ffb9e95f04d48ea6d9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: MiniGames/Library/metadata/a6/a6fcbfe7bf75447e58adb4bf74418474
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/a6/a6fcbfe7bf75447e58adb4bf74418474
     projectPath: Library/metadata/a6/a6fcbfe7bf75447e58adb4bf74418474
@@ -444,26 +302,26 @@ MonoBehaviour:
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/bb/bb72a4744654b4aee8f39741fae26190
     projectPath: Library/metadata/bb/bb72a4744654b4aee8f39741fae26190
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/metadata/bb/bb72a4744654b4aee8f39741fae26190.info
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/bb/bb72a4744654b4aee8f39741fae26190.info
     projectPath: Library/metadata/bb/bb72a4744654b4aee8f39741fae26190.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073
-    projectPath: Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MiniGames/Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de
+    projectPath: Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073.info
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073.info
-    projectPath: Library/metadata/d1/d17b21e81f86a43aba65c6f7f4641073.info
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: MiniGames/Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de.info
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de.info
+    projectPath: Library/metadata/d3/d341f0c7883ab496bbfd6f1bdabf28de.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: MiniGames/Library/ScriptAssemblies/Assembly-CSharp.dll
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/ScriptAssemblies/Assembly-CSharp.dll
     projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
@@ -482,12 +340,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Library/StateCache/Hierarchy/a840ea-44c7bd262cac04e46a.json
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/StateCache/Hierarchy/a840ea-44c7bd262cac04e46a.json
-    projectPath: Library/StateCache/Hierarchy/a840ea-44c7bd262cac04e46a.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: MiniGames/Library/StateCache/Hierarchy/a840ea-mainStage.json
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/StateCache/Hierarchy/a840ea-mainStage.json
     projectPath: Library/StateCache/Hierarchy/a840ea-mainStage.json
@@ -500,21 +352,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MiniGames/Library/TilemapEditorUserSettings.asset
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Library/TilemapEditorUserSettings.asset
-    projectPath: Library/TilemapEditorUserSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: MiniGames/ProjectSettings/EditorBuildSettings.asset
     fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/ProjectSettings/EditorBuildSettings.asset
     projectPath: ProjectSettings/EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: MiniGames/ProjectSettings/TagManager.asset
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -530,225 +370,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-1f080a040456f4536bcb10c63c52b17b
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-1f080a040456f4536bcb10c63c52b17b
-    projectPath: Temp/UnityTempFile-1f080a040456f4536bcb10c63c52b17b
+  - path: MiniGames/Temp/UnityTempFile-198f5730f7d0b42c0b94f984b2f4ed3e
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-198f5730f7d0b42c0b94f984b2f4ed3e
+    projectPath: Temp/UnityTempFile-198f5730f7d0b42c0b94f984b2f4ed3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-23864efc5bfa54ebeb9420dde90b8494
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-23864efc5bfa54ebeb9420dde90b8494
-    projectPath: Temp/UnityTempFile-23864efc5bfa54ebeb9420dde90b8494
+  - path: MiniGames/Temp/UnityTempFile-2cbb6495dba654d188d1bb1d6ac2126f
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-2cbb6495dba654d188d1bb1d6ac2126f
+    projectPath: Temp/UnityTempFile-2cbb6495dba654d188d1bb1d6ac2126f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-254f396e6051a496fa0abdb21c965d9b
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-254f396e6051a496fa0abdb21c965d9b
-    projectPath: Temp/UnityTempFile-254f396e6051a496fa0abdb21c965d9b
+  - path: MiniGames/Temp/UnityTempFile-381667c1175e34dbdb070f9749c4600a
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-381667c1175e34dbdb070f9749c4600a
+    projectPath: Temp/UnityTempFile-381667c1175e34dbdb070f9749c4600a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-388e4fa4783114431af714a35cf2ae3c
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-388e4fa4783114431af714a35cf2ae3c
-    projectPath: Temp/UnityTempFile-388e4fa4783114431af714a35cf2ae3c
+  - path: MiniGames/Temp/UnityTempFile-5835c6523bb784dda8f4f898c144ba83
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-5835c6523bb784dda8f4f898c144ba83
+    projectPath: Temp/UnityTempFile-5835c6523bb784dda8f4f898c144ba83
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-42777660e978e43f78c250ea75eb0540
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-42777660e978e43f78c250ea75eb0540
-    projectPath: Temp/UnityTempFile-42777660e978e43f78c250ea75eb0540
+  - path: MiniGames/Temp/UnityTempFile-90053b04d4b96453ca2fb1779b560e1d
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-90053b04d4b96453ca2fb1779b560e1d
+    projectPath: Temp/UnityTempFile-90053b04d4b96453ca2fb1779b560e1d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-4942d7a429b5b4d89ba3fd7a315bbc79
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-4942d7a429b5b4d89ba3fd7a315bbc79
-    projectPath: Temp/UnityTempFile-4942d7a429b5b4d89ba3fd7a315bbc79
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-572d70ab24f3841488fbcaab5e1c421a
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-572d70ab24f3841488fbcaab5e1c421a
-    projectPath: Temp/UnityTempFile-572d70ab24f3841488fbcaab5e1c421a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-59769715ec6ec482eb78ceeb8a63c7f2
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-59769715ec6ec482eb78ceeb8a63c7f2
-    projectPath: Temp/UnityTempFile-59769715ec6ec482eb78ceeb8a63c7f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-648a593522ed34e40ae2c0fdf7991733
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-648a593522ed34e40ae2c0fdf7991733
-    projectPath: Temp/UnityTempFile-648a593522ed34e40ae2c0fdf7991733
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-652e9861eab934fd99e3503b265975e9
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-652e9861eab934fd99e3503b265975e9
-    projectPath: Temp/UnityTempFile-652e9861eab934fd99e3503b265975e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-6aee4a540074040de98ed9e907a32658
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-6aee4a540074040de98ed9e907a32658
-    projectPath: Temp/UnityTempFile-6aee4a540074040de98ed9e907a32658
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-71a6d305b7f7c4fc5a7f1b86b65be137
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-71a6d305b7f7c4fc5a7f1b86b65be137
-    projectPath: Temp/UnityTempFile-71a6d305b7f7c4fc5a7f1b86b65be137
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-75f7044ca30fd429aaf9fbb65260e60c
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-75f7044ca30fd429aaf9fbb65260e60c
-    projectPath: Temp/UnityTempFile-75f7044ca30fd429aaf9fbb65260e60c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-7a6053ffde42440f587f24d0c60af874
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-7a6053ffde42440f587f24d0c60af874
-    projectPath: Temp/UnityTempFile-7a6053ffde42440f587f24d0c60af874
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-80e808a592cec428485fc8009544fc02
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-80e808a592cec428485fc8009544fc02
-    projectPath: Temp/UnityTempFile-80e808a592cec428485fc8009544fc02
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-8a695467adeef42ed88b538119a14763
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-8a695467adeef42ed88b538119a14763
-    projectPath: Temp/UnityTempFile-8a695467adeef42ed88b538119a14763
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-8b27d08c0faf24877857d3a80f218b44
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-8b27d08c0faf24877857d3a80f218b44
-    projectPath: Temp/UnityTempFile-8b27d08c0faf24877857d3a80f218b44
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-8cb0ddc8feda341429d09e161e949291
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-8cb0ddc8feda341429d09e161e949291
-    projectPath: Temp/UnityTempFile-8cb0ddc8feda341429d09e161e949291
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-8fce581c5d9c248c2a9dfa4097d197da
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-8fce581c5d9c248c2a9dfa4097d197da
-    projectPath: Temp/UnityTempFile-8fce581c5d9c248c2a9dfa4097d197da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-a8a37d166daa340b1a64bff69a3fd377
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-a8a37d166daa340b1a64bff69a3fd377
-    projectPath: Temp/UnityTempFile-a8a37d166daa340b1a64bff69a3fd377
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-aa68971c0ba66493faf424eb0006b9e9
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-aa68971c0ba66493faf424eb0006b9e9
-    projectPath: Temp/UnityTempFile-aa68971c0ba66493faf424eb0006b9e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-aa88a5d7e4695420c92c3d0f2f3506db
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-aa88a5d7e4695420c92c3d0f2f3506db
-    projectPath: Temp/UnityTempFile-aa88a5d7e4695420c92c3d0f2f3506db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-bed218f0a00a6485dacce3b94332d73e
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-bed218f0a00a6485dacce3b94332d73e
-    projectPath: Temp/UnityTempFile-bed218f0a00a6485dacce3b94332d73e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-bfdfea4d176974111ba6c410c3c75d1d
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-bfdfea4d176974111ba6c410c3c75d1d
-    projectPath: Temp/UnityTempFile-bfdfea4d176974111ba6c410c3c75d1d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-c5579d2d944bd4dd3ac93161dbc517cc
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-c5579d2d944bd4dd3ac93161dbc517cc
-    projectPath: Temp/UnityTempFile-c5579d2d944bd4dd3ac93161dbc517cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-ccdab61be309448579406921bb2325e0
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-ccdab61be309448579406921bb2325e0
-    projectPath: Temp/UnityTempFile-ccdab61be309448579406921bb2325e0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-cf6d99dd445f040bc92533557923ca59
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-cf6d99dd445f040bc92533557923ca59
-    projectPath: Temp/UnityTempFile-cf6d99dd445f040bc92533557923ca59
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-d06a103553cf54b5592881b395bb8bde
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-d06a103553cf54b5592881b395bb8bde
-    projectPath: Temp/UnityTempFile-d06a103553cf54b5592881b395bb8bde
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-d4465eeeff1344db1bf1c33067375b18
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-d4465eeeff1344db1bf1c33067375b18
-    projectPath: Temp/UnityTempFile-d4465eeeff1344db1bf1c33067375b18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-e01cb9108f3114380a021d91d289c333
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-e01cb9108f3114380a021d91d289c333
-    projectPath: Temp/UnityTempFile-e01cb9108f3114380a021d91d289c333
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-e2c2d5b9d052d4169a0e1834891e6a0f
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-e2c2d5b9d052d4169a0e1834891e6a0f
-    projectPath: Temp/UnityTempFile-e2c2d5b9d052d4169a0e1834891e6a0f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-eb0cf98058cc74808aa4ed3099984855
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-eb0cf98058cc74808aa4ed3099984855
-    projectPath: Temp/UnityTempFile-eb0cf98058cc74808aa4ed3099984855
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-eb4223cc267344960a9d697e9729996e
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-eb4223cc267344960a9d697e9729996e
-    projectPath: Temp/UnityTempFile-eb4223cc267344960a9d697e9729996e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-ec563e0b5a3284305b2ccfb69ec481be
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-ec563e0b5a3284305b2ccfb69ec481be
-    projectPath: Temp/UnityTempFile-ec563e0b5a3284305b2ccfb69ec481be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-f0aa952dc321248628a6ed5bb0549b6b
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-f0aa952dc321248628a6ed5bb0549b6b
-    projectPath: Temp/UnityTempFile-f0aa952dc321248628a6ed5bb0549b6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-f35173384f3a84e698ff9eff01d39453
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-f35173384f3a84e698ff9eff01d39453
-    projectPath: Temp/UnityTempFile-f35173384f3a84e698ff9eff01d39453
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: MiniGames/Temp/UnityTempFile-fce6ad7278b4642b396698165e5f2c60
-    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-fce6ad7278b4642b396698165e5f2c60
-    projectPath: Temp/UnityTempFile-fce6ad7278b4642b396698165e5f2c60
+  - path: MiniGames/Temp/UnityTempFile-a0fe9a9a8422043a4a9dcab6e6646df3
+    fullPath: /Users/Zabrain/Desktop/UnityMinigames/MiniGames/Temp/UnityTempFile-a0fe9a9a8422043a4a9dcab6e6646df3
+    projectPath: Temp/UnityTempFile-a0fe9a9a8422043a4a9dcab6e6646df3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

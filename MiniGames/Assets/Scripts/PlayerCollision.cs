@@ -21,51 +21,61 @@ public class PlayerCollision : MonoBehaviour
     	if (collisionInfo.gameObject.tag == "Coin")
     	{
     		Coin.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
     	if (collisionInfo.gameObject.tag == "Coin1")
     	{
     		Coin1.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
     	if (collisionInfo.gameObject.tag == "Coin2")
     	{
     		Coin2.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
     	if (collisionInfo.gameObject.tag == "Coin3")
     	{
     		Coin3.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
     	if (collisionInfo.gameObject.tag == "Coin4")
     	{
     		Coin4.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
     	if (collisionInfo.gameObject.tag == "Coin5")
     	{
     		Coin5.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
     	}
 
         if (collisionInfo.gameObject.tag == "Coin6")
         {
             Coin6.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
         }
 
         if (collisionInfo.gameObject.tag == "Coin7")
         {
             Coin7.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
         }
 
     	if (collisionInfo.gameObject.tag == "EndCoin")
     	{
     		EndCoin.SetActive(false);
+            FindObjectOfType<GameController>().addCurrency();
+            FindObjectOfType<GameController>().win();
     	}
 
         if (collisionInfo.gameObject.tag == "Water")
         {
-            SceneManager.LoadScene("GameOverScreen");
+            FindObjectOfType<GameController>().gameOver();
         }
     }
 }
